@@ -2,5 +2,8 @@
 
 ## Deployment
 ```
-This is the deployment branch for Netlify, link is https://adoring-poincare-2fd4cd.netlify.com/#/
+This is the deployment branch for Netlify.
 ```
+
+## Link
+https://adoring-poincare-2fd4cd.netlify.com/#/
